@@ -5,6 +5,7 @@
     <string name="species_prompt">Species</string>
     <string name="btn_confirm">Confirm</string>
     <string name="giraffe">Giraffe</string>
-    <string name="correct">Correct!</string>
+    <string name="correct">Correct answer!</string>
     <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
+    <string name="confirm">Confirm</string>
 </resources>

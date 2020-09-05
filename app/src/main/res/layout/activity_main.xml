@@ -34,7 +34,6 @@
         android:id="@+id/etAnswer"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:inputType="textPersonName"
         android:hint="@string/species_prompt"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/btnConfirm"
