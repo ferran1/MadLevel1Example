@@ -18,7 +18,6 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         val view = binding.root
 
-        // Set a listener for the button so we can call checkAnswer() when the button is clicked
         view.btnConfirm.setOnClickListener {
             checkAnswer()
         }
